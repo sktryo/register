@@ -4,6 +4,9 @@
         "email": "ryoskt123@gmail.com"
     },
     "records": {
-        "CNAME": "sktryo.freeddns.org"
+        "NS": [
+            "bristol.ns.cloudflare.com",
+            "dan.ns.cloudflare.com"
+        ]
     }
 }
