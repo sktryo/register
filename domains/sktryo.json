@@ -4,9 +4,6 @@
         "email": "ryoskt123@gmail.com"
     },
     "records": {
-        "NS": [
-            "bristol.ns.cloudflare.com",
-            "dan.ns.cloudflare.com"
-        ]
+        "CNAME": "sktryo.f5.si"
     }
 }
